@@ -1,2 +1,2 @@
 # learning
-Learning linux and python
+Learning linux, go and python.
